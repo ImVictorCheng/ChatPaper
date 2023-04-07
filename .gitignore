@@ -3,5 +3,8 @@ __pycache__/
 /__pycache__
 # Ignore all .pyc files
 *.pyc
+apikey.ini
+
 export/*
+apikey.ini
 apikey.ini
